@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1704
     wikipedia: http://en.wikipedia.org/wiki/Storer_Clouston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25899#The-Prodigal-Father
 gutenberg_issued: '2008-06-25'
 gutenberg_type: Text
 identifiers:
